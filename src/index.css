@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Norwige";
+  src: url("fonts/norwige-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Norwige";
+  src: url("fonts/norwige-medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Freight";
+  src: url("fonts/freight-text-pro-book-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Freight";
+  src: url("fonts/freight-text-pro-black-italic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  background-color: #f2f2f2;
+}
